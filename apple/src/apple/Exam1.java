@@ -1,7 +1,8 @@
 package apple;
 
 public class Exam1 {
-	int 2
+	int num;
+	int num;
 
 
 	public static void main(String[] args) {
